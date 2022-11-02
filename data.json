@@ -1,0 +1,114 @@
+{
+    "persons": [
+        {
+            "name":"კაპანაძე ნიკოლოზ",
+            "gender" : "male",
+            "age": 16,
+            "address" : {
+                "planet":"Mars",
+                "city":"Antacrtica",
+                "postalCode":"1121"
+            },
+            "phoneNumber":[{"type": "presonal", "number": "123456"}]
+        },
+        {
+            "name":"davit maswi",
+            "gender" : "male",
+            "age": 26,
+            "address" : {
+                "city":"Tbilisi",
+                "street":"ar vici",
+                "postalCode":"13314721"
+            },
+            "phoneNumber":[{"type": "presonal", "number": "13579"}]
+        },
+        {
+            "name":"gela gelashvili",
+            "gender" : "male",
+            "age": 45,
+            "address" : {
+                "city":"Tbilisi",
+                "street":"ar vici",
+                "postalCode":"1335521"
+            },
+            "phoneNumber":[{"type": "presonal", "number": "1512355"}]
+        },
+        {
+            "name":"johnny depp",
+            "gender" : "male",
+            "age": 59,
+            "address" : {
+                "city":"Los Angeles",
+                "street":"esec ar vici",
+                "postalCode":"13321"
+            },
+            "phoneNumber":[{"type": "presonal", "number": "145123"}]
+        },
+        {
+            "name":"ბოჭორიშვილი სანდრო",
+            "gender" : "male",
+            "age": 23,
+            "address" : {
+                "city":"Tbilisi",
+                "street":"arc es ar vici",
+                "postalCode":"1339321"
+            },
+            "phoneNumber":[{"type": "presonal", "number": "321451"}]
+        },
+        {
+            "name":"shota darbaidze",
+            "gender" : "male",
+            "age": 32,
+            "address" : {
+                "planet":"Pluto",
+                "city":"Africa",
+                "postalCode":"1333321"
+            },
+            "phoneNumber":[{"type": "presonal", "number": "2468"}]
+        },
+        {
+            "name":"გვილავა ნიკა",
+            "gender" : "male",
+            "age": 51,
+            "address" : {
+                "city":"Tbilisi",
+                "street":"ar vici",
+                "postalCode":"1331321"
+            },
+            "phoneNumber":[{"type": "presonal", "number": "12345611"}]
+        },
+        {
+            "name":"კოჭლამაზაშვილი საბა",
+            "gender" : "male",
+            "age": 15,
+            "address" : {
+                "city":"Tbilisi",
+                "street":"ar vici",
+                "postalCode":"1334421"
+            },
+            "phoneNumber":[{"type": "presonal", "number": "132435"}]
+        },
+        {
+            "name":"თარაშვილი სალომე",
+            "gender" : "male",
+            "age": 15,
+            "address" : {
+                "city":"Tbilisi",
+                "street":"ar vici",
+                "postalCode":"1332"
+            },
+            "phoneNumber":[{"type": "presonal", "number": "132435"}]
+        },
+        {
+            "name":"ჟორჟოლიანი თინათინ",
+            "gender" : "female",
+            "age": 15,
+            "address" : {
+                "city":"Tbilisi",
+                "street":"ar vici",
+                "postalCode":"663321"
+            },
+            "phoneNumber":[{"type": "presonal", "number": "132435"}]
+        }
+    ]
+}
